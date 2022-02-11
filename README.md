@@ -6,3 +6,5 @@
 <!-- HOME Completed -->
 <!-- ABOUT Completed -->
 <!-- SKILLS Completed -->
+<!-- QUALIFICATION Completed -->
+<!-- SERVICES Completed -->
